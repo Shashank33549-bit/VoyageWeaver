@@ -125,6 +125,7 @@ function RootShell({ children }: { children: ReactNode }) {
       </head>
       <body>
         {children}
+        <script src="https://app.ashna.ai/embed/agent-widget.js" data-agent-id="6adb3286b72e9d0015ce08fc" data-token="eyJhbGciOiJIUzI1NiJ9.eyJhZ2VudElkIjoiNmFkYjMyODZiNzJlOWQwMDE1Y2UwOGZjIiwidXNlcklkIjoiNmFkYjFmNTE5NGU5ZDVmNDAwZWU2ZWIwIiwiYWxsb3dlZE9yaWdpbnMiOlsidm95YWdlLXdlYXZlci5uZXRsaWZ5LmFwcCJdLCJvcmlnaW5Eb21haW4iOiJ2b3lhZ2Utd2VhdmVyLm5ldGxpZnkuYXBwIiwiYXNzaWduZWRPcmdJZCI6IiIsImlhdCI6MTc5Mjc1MzIwOSwiaXNzIjoiYXNobmFBSSIsImF1ZCI6ImFzaG5hQUkiLCJzdWIiOiI2YWRiMzI4NmI3MmU5ZDAwMTVjZTA4ZmMifQ.NTbw7IDktS_t55G2081LnruEc7GvwiSLdhHRw2284Yg" data-icon-color="#7c3aed" data-icon-shape="circle" async></script>
         <Scripts />
       </body>
     </html>
